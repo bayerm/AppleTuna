@@ -3,6 +3,6 @@ class TunaApples{
 		Tuna tunaObject = new Tuna();
 		tunaObject.simpleMessage();
 		Apples applesObject = new Apples();
-		appleObject.simpleMessage();
+		applesObject.simpleMessage();
 	}
 }
