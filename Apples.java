@@ -1,5 +1,5 @@
 public class Apples{
-	public static void simpleMessages(String[] args){
+	public  void simpleMessage(){
 		System.out.println("TestTest"); //Hello
 	}
 }
